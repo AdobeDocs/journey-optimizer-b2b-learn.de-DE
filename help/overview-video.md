@@ -1,5 +1,5 @@
 ---
-title: "[!DNL Journey Optimizer B2B Edition]"
+title: '[!DNL Journey Optimizer B2B Edition]'
 description: Erfahren Sie mehr über die Komponenten einer Käufergruppe und die Grundlagen zum Erstellen einer Konto-Journey.
 role: Admin, User
 level: Beginner, Intermediate, Experienced
