@@ -1,5 +1,5 @@
 ---
-title: Übersicht über das Kaufen von Gruppen
+title: Einkaufsgruppen - Übersicht
 description: Erfahren Sie alles über Käufergruppen und deren Nutzung.
 feature: Buying Groups
 role: Admin, User
@@ -12,11 +12,11 @@ exl-id: 2d8c37d7-f00c-42d6-b8de-44968633ab88
 source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
 workflow-type: tm+mt
 source-wordcount: '26'
-ht-degree: 76%
+ht-degree: 88%
 
 ---
 
-# Übersicht über das Kaufen von Gruppen
+# Übersicht über Käufergruppen
 
 Erfahren Sie alles über Käufergruppen und deren Nutzung.
 

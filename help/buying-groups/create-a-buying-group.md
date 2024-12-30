@@ -1,6 +1,6 @@
 ---
 title: Erstellen einer Einkaufsgruppe
-description: Erfahren Sie, wie Sie eine Konto-Audience, eine Rollenvorlage und ein Lösungsinteresse zum Erstellen von Einkaufsgruppen verwenden.
+description: Erfahren Sie, wie Sie eine Konto-Zielgruppe, eine Rollenvorlage und eine Interessenslösung verwenden können, um Einkaufsgruppen zu erstellen.
 feature: Buying Groups
 role: Admin, User
 level: Beginner, Intermediate, Experienced
@@ -8,16 +8,16 @@ doc-type: Feature Video
 duration: 480
 last-substantial-update: 2024-08-23T00:00:00Z
 jira: KT-16054
-source-git-commit: 6a675844e2b29326b33f435c2c86b31196644358
+exl-id: 4c478b95-f3b9-4ef4-ab8f-4cbb31650628
+source-git-commit: 95661e83f42cc4d94630fa86de50125940ea2e3d
 workflow-type: tm+mt
 source-wordcount: '44'
 ht-degree: 0%
 
 ---
 
-
 # Erstellen einer Einkaufsgruppe
 
-Erfahren Sie, wie Sie eine Konto-Audience, eine Rollenvorlage und ein Lösungsinteresse zum Erstellen von Einkaufsgruppen verwenden.
+Erfahren Sie, wie Sie eine Konto-Zielgruppe, eine Rollenvorlage und eine Interessenslösung verwenden können, um Einkaufsgruppen zu erstellen.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
