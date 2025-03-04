@@ -2,10 +2,10 @@
 title: Tutorials für [!DNL Journey Optimizer B2B Edition]
 description: Video-Tutorials ansehen unter [!DNL Journey Optimizer B2B Edition]. Verbessern Sie Ihr Verständnis für die Orchestrierung von Account und Kauf von Gruppen-Journeys und mehr.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
+source-git-commit: ba3b04d8bedc8df0ddaacb902a65d0144bfab2d4
 workflow-type: tm+mt
-source-wordcount: '176'
-ht-degree: 17%
+source-wordcount: '153'
+ht-degree: 20%
 
 ---
 
@@ -15,20 +15,14 @@ Erfahren Sie, wie Sie das Beste aus [!DNL Journey Optimizer B2B Edition] heraush
 
 ## Neue Funktionen {#whats-new}
 
-* [Einführung in Account Journey](/help/account-journeys/introducing-account-journeys.md)
-  _Erfahren Sie alles über Account Journey und wie Sie sie verwenden können, um Ihre Audience zu erreichen._
+* [Gruppen-Stadien kaufen](/help/buying-groups/buying-group-stages.md)
+  _Erfahren Sie, wie Sie innerhalb eines Einzelstufenmodells mehrere Lebenszyklusphasen für Einkaufsgruppen erstellen und die Übergangsregeln angeben._
 
-* [Konto-Journey erstellen](/help/account-journeys/create-an-account-journey.md)
-  _Erfahren Sie, wie Sie den Knoten „Account-Zielgruppe“, „Action-Knoten“, „Listener-Knoten“ und „Pfade aufteilen“ verwenden, um Account-Journey zu erstellen._
+* [Überwachen von AEP-Ereignissen](/help/account-journeys/journey-nodes/listen-for-aep-events.md)
+  _Definieren und verwenden Sie ein beliebiges Erlebnisereignis auf Ihrer Konto-Journey._
 
-* [Aktionsknoten](/help/account-journeys/journey-nodes/action-node.md)
-  _Erfahren Sie mehr über Aktionsknoten und deren Konfiguration beim Erstellen einer Konto-Journey._
-
-* [Listener-Knoten](/help/account-journeys/journey-nodes/listen-node.md)
-  _Erfahren Sie mehr über Listener-Knoten und deren Konfiguration beim Erstellen einer Account-Journey._
-
-* [Split Account Journey](/help/account-journeys/journey-nodes/split-account-journey.md)
-  _Erfahren Sie mehr über Aufspaltungs-/Zusammenführungspfadknoten und wie Sie diese beim Erstellen einer Konto-Journey konfigurieren können._
+* [Paid Media Orchestration](/help/account-journeys/journey-nodes/paid-media-orchestration.md)
+  _Erfahren Sie, wie Sie mit einer Journey Personen in eine externe Zielgruppe verschieben können, die Sie dann an ein beliebiges unterstütztes Paid-Media-Ziel im AEP-Zielkatalog senden können._
 
 ## Die beliebtesten Videos {#most-popular-videos}
 
