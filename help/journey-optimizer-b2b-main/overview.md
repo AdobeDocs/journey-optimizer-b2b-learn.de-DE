@@ -2,9 +2,9 @@
 title: Tutorials für [!DNL Journey Optimizer B2B Edition]
 description: Video-Tutorials ansehen unter [!DNL Journey Optimizer B2B Edition]. Verbessern Sie Ihr Verständnis für die Orchestrierung von Account und Kauf von Gruppen-Journeys und mehr.
 exl-id: 5d041113-2e1b-45b2-a786-93621cd392a6
-source-git-commit: 51ab8e8e3ec650516128e76c287cfce6b6ab11b5
+source-git-commit: 688c658299a0e1e7a74e1a714d2732ffed3a7c45
 workflow-type: tm+mt
-source-wordcount: '180'
+source-wordcount: '176'
 ht-degree: 17%
 
 ---
@@ -12,10 +12,6 @@ ht-degree: 17%
 # Tutorials für [!DNL Journey Optimizer B2B Edition]
 
 Erfahren Sie, wie Sie das Beste aus [!DNL Journey Optimizer B2B Edition] herausholen. Organisieren Sie Konto- und Käufergruppen-Journeys mithilfe integrierter generativer KI und branchenführender Automatisierung, um die Nachfrage nach spezifischen Angeboten zu maximieren.
-
->[!NOTE]
->
->Weitere Videos folgen in Kürze!
 
 ## Neue Funktionen {#whats-new}
 
@@ -25,13 +21,13 @@ Erfahren Sie, wie Sie das Beste aus [!DNL Journey Optimizer B2B Edition] heraush
 * [Konto-Journey erstellen](/help/account-journeys/create-an-account-journey.md)
   _Erfahren Sie, wie Sie den Knoten „Account-Zielgruppe“, „Action-Knoten“, „Listener-Knoten“ und „Pfade aufteilen“ verwenden, um Account-Journey zu erstellen._
 
-* [Aktionsknoten](/help/account-journeys/action-node.md)
+* [Aktionsknoten](/help/account-journeys/journey-nodes/action-node.md)
   _Erfahren Sie mehr über Aktionsknoten und deren Konfiguration beim Erstellen einer Konto-Journey._
 
-* [Listener-Knoten](/help/account-journeys/listen-node.md)
+* [Listener-Knoten](/help/account-journeys/journey-nodes/listen-node.md)
   _Erfahren Sie mehr über Listener-Knoten und deren Konfiguration beim Erstellen einer Account-Journey._
 
-* [Split Account Journey](/help/account-journeys/split-account-journey.md)
+* [Split Account Journey](/help/account-journeys/journey-nodes/split-account-journey.md)
   _Erfahren Sie mehr über Aufspaltungs-/Zusammenführungspfadknoten und wie Sie diese beim Erstellen einer Konto-Journey konfigurieren können._
 
 ## Die beliebtesten Videos {#most-popular-videos}
