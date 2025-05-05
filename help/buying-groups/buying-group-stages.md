@@ -22,4 +22,4 @@ Die Phasen der Einkaufsgruppe stellen die verschiedenen Phasen dar, die eine Ein
 
 Mit dieser Funktion können Sie innerhalb eines Einzelstufenmodells mehrere Lebenszyklusphasen für Einkaufsgruppen erstellen und die Übergangsregeln angeben. Durch die Festlegung dieser Regeln haben Sie die vollständige Kontrolle darüber, wie eine Einkaufsgruppe von einem Schritt zum anderen wechseln kann. Staging-Übergänge können dann innerhalb eines Journey automatisiert werden, indem diese Funktionen zu einem leistungsstarken Fluss kombiniert werden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448634/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448703/?learn=on&enablevpops&captions=ger)

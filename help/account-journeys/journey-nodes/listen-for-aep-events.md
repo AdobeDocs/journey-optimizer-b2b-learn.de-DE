@@ -24,4 +24,4 @@ Durch das Überwachen von AEP-Ereignissen in AJO B2B können Sie jedes Erlebnise
 
 * Verwenden von AEP-Ereignissen auf der Konto-Journey
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448692/?learn=on&enablevpops&captions=ger)

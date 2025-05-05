@@ -20,4 +20,4 @@ ht-degree: 5%
 
 Erfahren Sie mehr über die Interessen an Lösungen für Einkaufsgruppen und wie Sie diese beim Erstellen einer Einkaufsgruppe konfigurieren/verwenden können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433080/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3450122/?learn=on&captions=ger)

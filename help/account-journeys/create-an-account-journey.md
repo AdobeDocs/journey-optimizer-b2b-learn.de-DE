@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie den Knoten „Konto-Zielgruppe“, „Aktionsknoten“, „Listener-Knoten“ und „Pfade aufteilen“ verwenden, um Account-Journey zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443204/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443228/?learn=on&enablevpops&captions=ger)

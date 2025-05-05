@@ -30,4 +30,4 @@ Sobald Account-Listen erstellt und mit relevanten Accounts gefüllt wurden, kön
 
 Zusammenfassend lässt sich sagen, dass Account-Listen in AJO B2B ein grundlegendes Element für die Verwaltung und Orchestrierung von Account-basiertem Marketing und Kundeninteraktionsaktivitäten sind. Sie ermöglichen es Benutzenden, Marketing-Interaktionen für wichtige Konten zu organisieren, anzusprechen und zu personalisieren, was zu aussagekräftigen Interaktionen und Beziehungen führt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448658/?learn=on&enablevpops&captions=ger)

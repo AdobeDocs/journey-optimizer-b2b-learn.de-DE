@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie, wie Sie eine Konto-Zielgruppe, eine Rollenvorlage und eine Interessenslösung verwenden können, um Einkaufsgruppen zu erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433081/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3451770/?learn=on&captions=ger)

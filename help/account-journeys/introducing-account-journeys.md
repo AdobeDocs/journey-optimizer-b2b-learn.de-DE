@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie alles über Account Journey und wie Sie sie verwenden können, um Ihre Audience zu erreichen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443202/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443216/?learn=on&enablevpops&captions=ger)

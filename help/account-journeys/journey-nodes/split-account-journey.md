@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über Aufspaltungs-/Zusammenführungspfadknoten und deren Konfiguration beim Erstellen einer Konto-Journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443265/?learn=on&enablevpops&captions=ger)

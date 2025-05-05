@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über Rollenvorlagen für Käufergruppen und wie Sie sie konfigurieren/verwenden können, wenn Sie eine Käufergruppe erstellen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453310/?learn=on&captions=ger)

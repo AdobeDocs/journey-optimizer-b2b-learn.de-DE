@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Erfahren Sie mehr über Listenknoten und deren Konfiguration beim Erstellen einer Account-Journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443243/?learn=on&enablevpops&captions=ger)
