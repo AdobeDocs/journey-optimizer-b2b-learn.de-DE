@@ -28,4 +28,4 @@ Nachdem Account-Listen erstellt und mit relevanten Accounts gefüllt wurden, kö
 
 Zusammenfassend lässt sich sagen, dass Account-Listen in [!DNL Journey Optimizer B2B Edition] ein grundlegendes Element für die Verwaltung und Orchestrierung Account-basierter Marketing- und Kundeninteraktionsaktivitäten sind. Sie ermöglichen es Ihnen, Marketing-Interaktionen für wichtige Konten zu organisieren, anzusprechen und zu personalisieren, was zu aussagekräftigen Interaktionen und Beziehungen führt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448636/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448658/?learn=on&enablevpops&captions=ger)

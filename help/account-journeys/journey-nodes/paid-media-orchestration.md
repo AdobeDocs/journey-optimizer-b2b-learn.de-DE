@@ -30,4 +30,4 @@ Als Lösung für diese Herausforderung bietet [!DNL Journey Optimizer B2B Editio
 
 In diesem Video zeigen wir Ihnen, wie Sie mit einer Journey Personen in eine externe Zielgruppe verschieben und diese dann an ein beliebiges unterstütztes Paid-Media-Ziel im AEP-Zielkatalog übertragen können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448649/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3448681/?learn=on&enablevpops&captions=ger)
