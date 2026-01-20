@@ -2,7 +2,8 @@
 user-guide-title: Tutorials für [!DNL Journey Optimizer B2B Edition]
 breadcrumb-title: Tutorials für [!DNL Journey Optimizer B2B Edition]
 user-guide-description: Erfahren Sie, wie Sie das Meiste aus  [!DNL Journey Optimizer B2B Edition]. Organisieren Sie Konto- und Käufergruppen-Journeys mithilfe integrierter generativer KI und branchenführender Automatisierung, um die Nachfrage nach spezifischen Angeboten zu maximieren.
-source-git-commit: ac86936e77f1937ad1384a23f9ede67db7fc0455
+auto-video-transcripts: true
+source-git-commit: c743f224a71b688bca7833418924c083f80a6645
 workflow-type: tm+mt
 source-wordcount: '80'
 ht-degree: 55%
