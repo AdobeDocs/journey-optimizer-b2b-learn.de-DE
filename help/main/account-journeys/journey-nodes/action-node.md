@@ -20,4 +20,4 @@ ht-degree: 12%
 
 Erfahren Sie mehr über Aktionsknoten und deren Konfiguration beim Erstellen einer Konto-Journey.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443254/?captions=ger&learn=on&enablevpops)

@@ -20,4 +20,4 @@ ht-degree: 100%
 
 Erfahren Sie alles über Käufergruppen und deren Nutzung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3452948/?captions=ger&learn=on)
