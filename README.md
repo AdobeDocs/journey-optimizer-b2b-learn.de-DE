@@ -7,4 +7,4 @@ ht-degree: 0%
 ---
 # ARCHIVIERT
 
-Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/journey-optimizer-b2b-learn.en> migriert.
+Dieses Repository wurde nach <https://github.com/Adobe-Enterprise-Docs/journey-optimizer-b2b-learn.de-DE> migriert.
