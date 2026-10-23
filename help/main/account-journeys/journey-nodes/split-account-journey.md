@@ -32,6 +32,6 @@ ht-degree: 5%
 
 Erfahren Sie mehr über Aufspaltungs- und Zusammenführungspfadknoten und wie Sie diese beim Erstellen eines Kontos oder einer Personen-Journey konfigurieren können.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443265/?captions=ger&learn=on&enablevpops)
 
 Weitere Informationen finden Sie _[Aufspaltungs- und Zusammenführungspfade](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ im Benutzerhandbuch.

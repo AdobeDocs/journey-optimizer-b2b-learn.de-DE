@@ -32,6 +32,6 @@ ht-degree: 34%
 
 Erfahren Sie alles über Käufergruppen und deren Nutzung.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452948/?captions=ger&learn=on&enablevpops)
 
 Weitere Informationen finden Sie _[Einkaufsgruppen](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ im Benutzerhandbuch.
