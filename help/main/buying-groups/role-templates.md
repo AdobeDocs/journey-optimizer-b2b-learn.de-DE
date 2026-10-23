@@ -39,4 +39,4 @@ Erfahren Sie mehr über Rollenvorlagen für Käufergruppen und wie Sie sie konfi
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
 
-Weitere Informationen finden Sie unter [Kaufen von Gruppenrollenvorlagen](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) im Benutzerhandbuch.
+Weitere Informationen finden Sie unter [Kaufen von Gruppenrollenvorlagen](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) im Benutzerhandbuch.

@@ -34,4 +34,4 @@ Erfahren Sie alles über Käufergruppen und deren Nutzung.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
 
-Weitere Informationen finden Sie _[Einkaufsgruppen](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ im Benutzerhandbuch.
+Weitere Informationen finden Sie _[Einkaufsgruppen](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ im Benutzerhandbuch.

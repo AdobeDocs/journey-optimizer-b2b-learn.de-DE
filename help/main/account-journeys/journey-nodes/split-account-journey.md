@@ -34,4 +34,4 @@ Erfahren Sie mehr über Aufspaltungs- und Zusammenführungspfadknoten und wie Si
 
 >[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
-Weitere Informationen finden Sie _[Aufspaltungs- und Zusammenführungspfade](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ im Benutzerhandbuch.
+Weitere Informationen finden Sie _[Aufspaltungs- und Zusammenführungspfade](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ im Benutzerhandbuch.
