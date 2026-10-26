@@ -49,4 +49,4 @@ Sie lernen Folgendes:
 * Aufspaltung nach Personen mithilfe von Personenattributen, Konto-Personen-Beziehungsattributen, Einkaufsgruppenmitgliedschaften, benutzerdefinierten Objekten und Ereignisverlauf mit Lookback-Fenstern, Häufigkeit und Inaktivitätsfilterung.
 * Verstehen Sie, wie der Knoten Automatische Aufspaltung von Pfaden Personen zum Konto-Journey zurückgibt.
 
-Weitere Informationen finden Sie _[Aufspaltungs- und Zusammenführungspfade](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ im Benutzerhandbuch.
+Weitere Informationen finden Sie _[Aufspaltungs- und Zusammenführungspfade](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ im Benutzerhandbuch.

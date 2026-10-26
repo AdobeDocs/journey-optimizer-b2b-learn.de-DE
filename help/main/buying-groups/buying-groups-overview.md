@@ -48,4 +48,4 @@ Sie lernen Folgendes:
 * Überprüfen und aktualisieren Sie die Mitglieder der Einkaufsgruppe. Manuelle Updates haben Vorrang vor Journey-Aktionen und Systemvorgängen.
 * Verwenden Sie Rolleneinblicke , um die Akquise und die Interaktion rollenübergreifend zu vergleichen, gefiltert nach Datumsbereich.
 
-Weitere Informationen finden Sie _[Einkaufsgruppen](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ im Benutzerhandbuch.
+Weitere Informationen finden Sie _[Einkaufsgruppen](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ im Benutzerhandbuch.

@@ -53,4 +53,4 @@ Sie lernen Folgendes:
 * Legen Sie mithilfe der Einstellungen für die Vollständigkeitsbewertung die Anzahl der für jede Rolle erforderlichen Mitglieder fest.
 * Veröffentlichen Sie eine Vorlage, sodass sich ihr Status in Live ändert und sie für Lösungsinteressen verfügbar ist.
 
-Weitere Informationen finden Sie unter [Kaufen von Gruppenrollenvorlagen](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) im Benutzerhandbuch.
+Weitere Informationen finden Sie unter [Kaufen von Gruppenrollenvorlagen](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-role-templates) im Benutzerhandbuch.
