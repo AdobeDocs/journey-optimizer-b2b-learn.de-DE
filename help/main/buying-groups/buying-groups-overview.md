@@ -35,7 +35,7 @@ Erfahren Sie, wie Einkaufsgruppen Personen für B2B-Kaufentscheidungen in [!DNL 
 
 Dieses Tutorial richtet sich an Marketing-Fachleute und Administratoren, die [!DNL Journey Optimizer B2B Edition] für Account-basiertes Marketing verwenden und die richtigen Stakeholder ansprechen und Accounts qualifizieren möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3452948/?captions=ger&learn=on&enablevpops)
 
 Sie lernen Folgendes:
 

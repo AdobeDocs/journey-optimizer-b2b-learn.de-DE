@@ -40,7 +40,7 @@ Erfahren Sie, wie Sie in [!DNL Adobe Journey Optimizer B2B Edition] Rollenvorlag
 
 Dieses Tutorial richtet sich an Marketing-Fachleute und Administratoren, die [!DNL Journey Optimizer B2B Edition] für Account-basiertes Marketing verwenden und die richtigen Stakeholder für jedes Account ansprechen möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3433079/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3453310/?captions=ger&learn=on)
 
 Sie lernen Folgendes:
 
