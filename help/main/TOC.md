@@ -3,10 +3,10 @@ user-guide-title: Tutorials zu [!DNL Journey Optimizer B2B Edition]
 breadcrumb-title: Tutorials zu [!DNL Journey Optimizer B2B Edition]
 user-guide-description: Erfahren Sie, wie Sie das Beste aus [!DNL Journey Optimizer B2B Edition] herausholen. Organisieren Sie Konto- und Käufergruppen-Journeys mithilfe integrierter generativer KI und branchenführender Automatisierung, um die Nachfrage nach spezifischen Angeboten zu maximieren.
 auto-video-transcripts: true
-source-git-commit: 87e82da81f0005d71bb3a72328051caa9d373a06
+source-git-commit: 4d3631a3a7a9c5944bb8f3eaa48427b6f9069228
 workflow-type: tm+mt
-source-wordcount: '80'
-ht-degree: 66%
+source-wordcount: '81'
+ht-degree: 70%
 ---
 
 # [!DNL Journey Optimizer B2B Edition] {#tutorials}
@@ -21,7 +21,7 @@ ht-degree: 66%
     + [Listener-Knoten](/help/main/account-journeys/journey-nodes/listen-node.md)
     + [Auf AEP-Ereignisse warten](/help/main/account-journeys/journey-nodes/listen-for-aep-events.md)
     + [Paid Media-Orchestrierung](/help/main/account-journeys/journey-nodes/paid-media-orchestration.md)
-    + [Journey des geteilten Kontos](/help/main/account-journeys/journey-nodes/split-account-journey.md)
+    + [Aufspaltung und Zusammenführen von Pfaden](/help/main/account-journeys/journey-nodes/split-account-journey.md)
 + Konten {#accounts}
   + [Kontolisten](/help/main/accounts/account-lists.md)
 + Käufergruppen {#buying-groups}
