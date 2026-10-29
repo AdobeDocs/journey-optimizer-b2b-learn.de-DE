@@ -1,5 +1,5 @@
 ---
-title: Übersicht über Einkaufsgruppen in Adobe [!DNL Journey Optimizer B2B Edition]
+title: Einkaufsgruppen in [!DNL Journey Optimizer B2B Edition]
 description: Erfahren Sie, wie Sie in Adobe [!DNL Journey Optimizer B2B Edition] Einkaufsgruppen erstellen, verwalten und bewerten können, von Rollenvorlagen und Lösungsinteressen bis hin zu Bereitschaft und Rolleneinblicken.
 keywords: Einkaufsgruppen, Adobe [!DNL Journey Optimizer B2B Edition], Account-Based Marketing, B2B-Einkaufsgruppe, Rollenvorlagen, Lösungsinteresse, Account-Zielgruppe, Einkaufsgruppen-Stadien, Einkaufsgruppen-Vollständigkeit, Rolleneinblicke, B2B-Marketing-Automatisierung
 feature: Buying Groups
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 85f11f822fd6915c58beec677aef15621c8cc0e6
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '252'
+source-wordcount: '248'
 ht-degree: 1%
 ---
-# Übersicht über Einkaufsgruppen in Adobe [!DNL Journey Optimizer B2B Edition]
+# Einkaufsgruppen in [!DNL Journey Optimizer B2B Edition]
 
 Erfahren Sie, wie Einkaufsgruppen Personen für B2B-Kaufentscheidungen in [!DNL Adobe Journey Optimizer B2B Edition] organisieren. In diesem Video erfahren Sie, welche Komponenten Sie benötigen, wie Sie einen Auftrag zur Erstellung einer Einkaufsgruppe vorbereiten und wie Sie die Bereitschaft bewerten können.
 
 Dieses Tutorial richtet sich an Marketing-Fachleute und Administratoren, die [!DNL Journey Optimizer B2B Edition] für Account-basiertes Marketing verwenden und die richtigen Stakeholder ansprechen und Accounts qualifizieren möchten.
 
->[!VIDEO](https://video.tv.adobe.com/v/3452948/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3433078/?learn=on&enablevpops)
 
 Sie lernen Folgendes:
 
@@ -48,4 +48,4 @@ Sie lernen Folgendes:
 * Überprüfen und aktualisieren Sie die Mitglieder der Einkaufsgruppe. Manuelle Updates haben Vorrang vor Journey-Aktionen und Systemvorgängen.
 * Verwenden Sie Rolleneinblicke , um die Akquise und die Interaktion rollenübergreifend zu vergleichen, gefiltert nach Datumsbereich.
 
-Weitere Informationen finden Sie _[Einkaufsgruppen](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ im Benutzerhandbuch.
+Weitere Informationen finden Sie _[Einkaufsgruppen](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/accounts/buying-groups/buying-groups-overview)_ im Benutzerhandbuch.

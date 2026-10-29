@@ -1,5 +1,5 @@
 ---
-title: Aufspaltungs- und Zusammenführungspfade in Adobe [!DNL Journey Optimizer B2B Edition]
+title: Aufspaltung und Zusammenführen von Pfaden
 description: Erfahren Sie, wie Sie in Adobe [!DNL Journey Optimizer B2B Edition] Pfade aufteilen und zusammenführen können, um Konten oder Personen nach Bedingungen zu routen, Pfadpriorität festzulegen und nicht übereinstimmende Zielgruppen zu verarbeiten.
 keywords: Aufspaltungspfade, Zusammenführungspfade, Adobe [!DNL Journey Optimizer B2B Edition], Account-Journey, Journey-Knoten, Account-basiertes Marketing, B2B-Journey-Orchestrierung, Einkaufsgruppenbereitschaft, Pfadbedingungen, Personen-Aufspaltung, Filterung des Ereignisverlaufs, Journey-Segmentierung
 feature: Account Journeys
@@ -24,18 +24,18 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Aufspaltungs- und Zusammenführungspfade in Adobe [!DNL Journey Optimizer B2B Edition]
+# Aufspaltung und Zusammenführen von Pfaden
 
 Erfahren Sie, wie Sie in Adobe [!DNL Journey Optimizer B2B Edition] Split- und Merge-Pfadknoten verwenden, um Konten oder Personen anhand von Bedingungen über eine Account-Journey zu leiten. In diesem Video werden die Aufteilung von Konten und Personen, die Pfadpriorität, die Standardpfade und das Zusammenführen beschrieben.
 
 Dieses Tutorial richtet sich an Marketing-Fachleute und Journey-Designer, die [!DNL Journey Optimizer B2B Edition] verwenden, um Account-basierte Marketing-Journey für verschiedene Segmente zu personalisieren und Gruppenmitglieder zu kaufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443265/?captions=ger&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
 
 Sie lernen Folgendes:
 
@@ -49,4 +49,4 @@ Sie lernen Folgendes:
 * Aufspaltung nach Personen mithilfe von Personenattributen, Konto-Personen-Beziehungsattributen, Einkaufsgruppenmitgliedschaften, benutzerdefinierten Objekten und Ereignisverlauf mit Lookback-Fenstern, Häufigkeit und Inaktivitätsfilterung.
 * Verstehen Sie, wie der Knoten Automatische Aufspaltung von Pfaden Personen zum Konto-Journey zurückgibt.
 
-Weitere Informationen finden Sie _[Aufspaltungs- und Zusammenführungspfade](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ im Benutzerhandbuch.
+Weitere Informationen finden Sie _[Aufspaltungs- und Zusammenführungspfade](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/split-merge-paths-nodes)_ im Benutzerhandbuch.
