@@ -35,7 +35,7 @@ Erfahren Sie, wie Sie in Adobe [!DNL Journey Optimizer B2B Edition] Split- und M
 
 Dieses Tutorial richtet sich an Marketing-Fachleute und Journey-Designer, die [!DNL Journey Optimizer B2B Edition] verwenden, um Account-basierte Marketing-Journey für verschiedene Segmente zu personalisieren und Gruppenmitglieder zu kaufen.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443231/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3443265/?captions=ger&learn=on&enablevpops)
 
 Sie lernen Folgendes:
 
