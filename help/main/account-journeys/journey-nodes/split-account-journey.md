@@ -1,5 +1,5 @@
 ---
-title: Aufspaltungs- und Zusammenführungspfade in Adobe [!DNL Journey Optimizer B2B Edition]
+title: Aufspaltung und Zusammenführen von Pfaden
 description: Erfahren Sie, wie Sie in Adobe [!DNL Journey Optimizer B2B Edition] Pfade aufteilen und zusammenführen können, um Konten oder Personen nach Bedingungen zu routen, Pfadpriorität festzulegen und nicht übereinstimmende Zielgruppen zu verarbeiten.
 keywords: Aufspaltungspfade, Zusammenführungspfade, Adobe [!DNL Journey Optimizer B2B Edition], Account-Journey, Journey-Knoten, Account-basiertes Marketing, B2B-Journey-Orchestrierung, Einkaufsgruppenbereitschaft, Pfadbedingungen, Personen-Aufspaltung, Filterung des Ereignisverlaufs, Journey-Segmentierung
 feature: Account Journeys
@@ -24,12 +24,12 @@ role_v2:
 level_v2:
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: 375a9f528b4df8d65f8ec3d5646381ab615c4305
+source-git-commit: 0378440b788599f4f2996507c407b6d031edc594
 workflow-type: tm+mt
-source-wordcount: '316'
-ht-degree: 0%
+source-wordcount: '312'
+ht-degree: 3%
 ---
-# Aufspaltungs- und Zusammenführungspfade in Adobe [!DNL Journey Optimizer B2B Edition]
+# Aufspaltung und Zusammenführen von Pfaden
 
 Erfahren Sie, wie Sie in Adobe [!DNL Journey Optimizer B2B Edition] Split- und Merge-Pfadknoten verwenden, um Konten oder Personen anhand von Bedingungen über eine Account-Journey zu leiten. In diesem Video werden die Aufteilung von Konten und Personen, die Pfadpriorität, die Standardpfade und das Zusammenführen beschrieben.
 

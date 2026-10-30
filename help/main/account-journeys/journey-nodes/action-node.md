@@ -1,23 +1,33 @@
 ---
-title: Knoten „Aktion“
-description: Erfahren Sie mehr über Aktionsknoten und deren Konfiguration beim Erstellen einer Konto-Journey.
+title: Durchführen eines Aktionsknotens
+description: Erfahren Sie, wie Aktionsknoten in Adobe Journey Optimizer B2B Edition funktionieren. Vergleichen Sie Konto- und Personenaktionen und untersuchen Sie, welche Aktionen jeder Journey-Typ unterstützt.
 feature: Account Journeys
 role: Admin, User
 level: Beginner, Intermediate
 doc-type: Feature Video
-duration: 864
-last-substantial-update: 2025-01-29T00:00:00Z
+duration: 147
+last-substantial-update: 2026-10-29
 jira: KT-17236
 exl-id: 7b29a079-ab3f-4176-a72e-c6a4ec6640f0
-source-git-commit: c7b76b0f10bc4becb38c515e0b4c4cc9c457c6fb
+source-git-commit: fae92807ede9410f62e9a12e485202b72786c16b
 workflow-type: tm+mt
-source-wordcount: '32'
-ht-degree: 12%
-
+source-wordcount: '122'
+ht-degree: 1%
 ---
+# Durchführen eines Aktionsknotens
 
-# Knoten „Aktion“
+Verwenden Sie Aktionsknoten in [!DNL Adobe Journey Optimizer B2B Edition], um Aktionen für Konten oder Personen in einer Journey zu definieren. Vergleichen Sie Kontoaktionen mit Personenaktionen und erfahren Sie, welche Aktionen jeder Journey-Typ unterstützt.
 
-Erfahren Sie mehr über Aktionsknoten und deren Konfiguration beim Erstellen einer Konto-Journey.
+>[!VIDEO](https://video.tv.adobe.com/v/3443254/?captions=ger&quality=12&learn=on)
 
->[!VIDEO](https://video.tv.adobe.com/v/3443254/?captions=ger&learn=on&enablevpops)
+## Grundlagen zum Aktionsknoten
+
+Das Video behandelt die folgenden Themen:
+
+* Der Zweck von Aktionsknoten in einem Journey.
+* Der Unterschied zwischen Kontoaktionen und Personenaktionen.
+* Aktionsunterstützung für alle Journey-Typen.
+
+## Verwandte Dokumentation
+
+Informationen zu Konfigurationsschritten und unterstützten Konto- und Personenaktionen finden Sie [im Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}.
