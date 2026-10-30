@@ -30,4 +30,4 @@ Das Video behandelt die folgenden Themen:
 
 ## Verwandte Dokumentation
 
-Informationen zu Konfigurationsschritten und unterstützten Konto- und Personenaktionen finden Sie [im Benutzerhandbuch](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}.
+Informationen zu Konfigurationsschritten und unterstützten Konto- und Personenaktionen finden Sie [im Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/journeys/journey-nodes/action-nodes){target="_blank"}.

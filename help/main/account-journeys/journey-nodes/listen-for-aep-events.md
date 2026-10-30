@@ -35,5 +35,5 @@ Ein Listener antwortet auf die entsprechende Streaming-Aktivität, wenn das Kont
 
 Informationen zu Setup-Anforderungen und -Anweisungen finden Sie auf diesen Seiten im Benutzerhandbuch:
 
-* [Erlebnisereignisse und -felder auswählen](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
-* [Warten auf ein Ereignis](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}
+* [Erlebnisereignisse und -felder auswählen](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/get-started/admin-setup/configure-aep-events){target="_blank"}
+* [Warten auf ein Ereignis](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}

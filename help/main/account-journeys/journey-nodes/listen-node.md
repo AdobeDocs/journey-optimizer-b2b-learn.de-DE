@@ -30,4 +30,4 @@ Das Video behandelt die folgenden Themen:
 
 ## Verwandte Dokumentation
 
-Informationen zu unterstützten Ereignissen, Konfigurationsschritten und Optionen für die maximale Wartezeit finden Sie [Lauschen auf ein Ereignis im Benutzerhandbuch](https://experienceleague.adobe.com/en/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}.
+Informationen zu unterstützten Ereignissen, Konfigurationsschritten und Optionen für die maximale Wartezeit finden Sie [Lauschen auf ein Ereignis im Benutzerhandbuch](https://experienceleague.adobe.com/de/docs/journey-optimizer-b2b/user/journeys/journey-nodes/listen-for-event-nodes){target="_blank"}.
