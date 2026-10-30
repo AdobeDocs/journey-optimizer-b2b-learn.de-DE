@@ -18,7 +18,7 @@ ht-degree: 3%
 
 Verwenden Sie [!DNL Adobe Experience Platform] Erlebnisereignisse , um die Account-Journey bei [!DNL Adobe Journey Optimizer B2B Edition] zu erweitern, wenn eine entsprechende Aktivität auftritt. Erfahren Sie, wie Admins Ereignistypen und -felder konfigurieren und wie Marketing-Experten sie in einem [!UICONTROL Lauschen auf ein Ereignis]-Knoten verwenden.
 
->[!VIDEO](https://video.tv.adobe.com/v/3448637/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3448692/?captions=ger&quality=12&learn=on)
 
 ## Grundlagen zu Erlebnisereignissen
 

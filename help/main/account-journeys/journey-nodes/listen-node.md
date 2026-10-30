@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Verwenden Sie den Knoten [!UICONTROL Auf ein Ereignis &#x200B;]), [!DNL Adobe Journey Optimizer B2B Edition] beim Eintreten eines Ereignisses einen Journey-Vorgang auszuführen. Konto- und Personenereignisse vergleichen, übereinstimmende Kriterien definieren und Zeitüberschreitungswerte konfigurieren, um zu steuern, wie lange die Journey wartet.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443219/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443243/?captions=ger&quality=12&learn=on)
 
 ## Überwachen von Node Essentials
 

@@ -18,7 +18,7 @@ ht-degree: 1%
 
 Verwenden Sie Aktionsknoten in [!DNL Adobe Journey Optimizer B2B Edition], um Aktionen für Konten oder Personen in einer Journey zu definieren. Vergleichen Sie Kontoaktionen mit Personenaktionen und erfahren Sie, welche Aktionen jeder Journey-Typ unterstützt.
 
->[!VIDEO](https://video.tv.adobe.com/v/3443207/?quality=12&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3443254/?captions=ger&quality=12&learn=on)
 
 ## Grundlagen zum Aktionsknoten
 
